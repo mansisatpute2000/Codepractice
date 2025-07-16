@@ -14,6 +14,8 @@ public class CapitalizeFirstLetterofEachWord {
 			{
 				cap.append(Character.toUpperCase(word.charAt(i)));
 			}
+			
+			//hi
 			else
 			{
 				cap.append(word.charAt(i));
