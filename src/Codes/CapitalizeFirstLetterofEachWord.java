@@ -13,7 +13,7 @@ public class CapitalizeFirstLetterofEachWord {
 			if(i==0 || word.charAt(i-1)==' ')
 			{
 				cap.append(Character.toUpperCase(word.charAt(i)));
-			}
+		}
 			
 			//hi
 			else
