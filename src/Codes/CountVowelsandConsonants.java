@@ -22,7 +22,7 @@ public class CountVowelsandConsonants {
 			}
 		}
 		System.err.println("Vowels are :" +VCount);
-		System.err.println("Vowels are :" +CCount);
+		System.err.println("constant are :" +CCount);
 	}
 
 }

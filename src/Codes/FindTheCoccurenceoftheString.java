@@ -6,7 +6,7 @@ public class FindTheCoccurenceoftheString {
 		// TODO Auto-generated method stub
 		String s="Maansii";
 		
-		StringBuilder sb=new StringBuilder();
+		//StringBuilder sb=new StringBuilder();
 		boolean[] visited= new boolean[s.length()];
 		for(int i=0;i<s.length();i++)
 		{
